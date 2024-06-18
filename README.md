@@ -1,5 +1,6 @@
 Download zip file dynamic-forms.zip
 and extracted file 
+DB Name create to dynamicFrom
 
 php artisan serve
 
