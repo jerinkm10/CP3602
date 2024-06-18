@@ -1,3 +1,6 @@
+Download zip file dynamic-forms.zip
+and extracted file 
+
 php artisan serve
 
 php artisan migrate:fresh
